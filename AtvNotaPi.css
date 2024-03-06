@@ -1,0 +1,33 @@
+body{margin: 0;
+}
+.Div-A {
+    background-color:pink;
+    width: 500px;
+    height: 500px;
+}
+
+.Div-B {
+    background-color:yellow;
+    width: 50%;
+    height: 50%;
+}
+
+.Div-C {
+    color: black;
+    background-color: orangered;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.Div-D {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(156, 92, 161);
+}
+
+.Div-E {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255, 0, 221);
+}
